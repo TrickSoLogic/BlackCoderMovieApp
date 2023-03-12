@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\black-coder\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\black-coder\\.nuget\\packages"
+    ]
+  }
+}
